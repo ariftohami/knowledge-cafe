@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "../src/assets/image/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
+      "title": "The Dawn of Innovation",
+      "author": "John Smith",
+      "author-img": "../src/assets/image/images.png",
+      "posted_date": "2024-11-10",
+      "reading_time": "8",
+      "hashtag": ["#Innovation", "#Technology", "#Progress"]
+    },
+    {
+      "id": 2,
+      "cover": "../src/assets/image/jeremy-bishop--WFRrjc829Y-unsplash.jpg",
+      "title": "Mastering the Art of Productivity",
+      "author": "Jane Doe",
+      "author-img":  "../src/assets/image/images.png",
+      "posted_date": "2024-11-11",
+      "reading_time": "12",
+      "hashtag": ["#Productivity", "#Efficiency", "#WorkLife"]
+    },
+    {
+      "id": 3,
+      "cover": "../src/assets/image/jeremy-bishop-uTlyGDKIyD8-unsplash.jpg",
+      "title": "A Journey Through Time",
+      "author": "Alex Turner",
+      "author-img":  "../src/assets/image/images.png",
+      "posted_date": "2024-11-09",
+      "reading_time": "15",
+      "hashtag": ["#TimeTravel", "#Adventure", "#History"]
+    },
+    {
+      "id": 4,
+      "cover": "../src/assets/image/robson-hatsukami-morgan-454S_xB0ReA-unsplash.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Sarah Lee",
+      "author-img": "../src/assets/image/images.png",
+      "posted_date": "2024-11-08",
+      "reading_time": "20",
+      "hashtag": ["#Space", "#Astronomy", "#Universe"]
+    },
+    {
+      "id": 5,
+      "cover": "../src/assets/image/wet-vietnam-mountain-flow-stream-rural.jpg",
+      "title": "The Future of AI",
+      "author": "Michael Johnson",
+      "author-img":  "../src/assets/image/images.png",
+      "posted_date": "2024-11-12",
+      "reading_time": "10",
+      "hashtag": ["#ArtificialIntelligence", "#AI", "#FutureTech"]
+    }
+  ]
+  
